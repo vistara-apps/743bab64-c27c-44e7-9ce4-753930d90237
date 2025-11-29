@@ -8,10 +8,10 @@
     "version": "next",
     "name": "MemeCoinForge",
     "iconUrl": "https://memecoinforge.com/icon.png",
-    "homeUrl": "https://memecoinforge.com/home",
+    "homeUrl": "https://app-30d90237-vea5.vercel.app",
     "splashImageUrl": "https://memecoinforge.com/splash.png",
     "splashBackgroundColor": "#0a1929",
-    "webhookUrl": "https://memecoinforge.com/api/webhooks/farcaster",
+    "webhookUrl": "https://app-30d90237-vea5.vercel.app/api/webhook",
     "subtitle": "Launch meme coins on Base",
     "description": "Rapidly design, launch, and manage meme coins on Base with integrated Kimbo burn and Farcaster social tools.",
     "screenshotUrls": [
@@ -20,7 +20,12 @@
       "https://memecoinforge.com/screenshot3.png"
     ],
     "primaryCategory": "defi",
-    "tags": ["memecoin", "base", "defi", "social"],
+    "tags": [
+      "memecoin",
+      "base",
+      "defi",
+      "social"
+    ],
     "heroImageUrl": "https://memecoinforge.com/hero.png",
     "tagline": "Forge meme coins with Kimbo burn",
     "ogTitle": "MemeCoinForge - Launch Meme Coins on Base",
