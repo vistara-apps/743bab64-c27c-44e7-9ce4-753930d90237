@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjEyMzQ1LCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMCJ9",
+    "payload": "eyJkb21haW4iOiJtZW1lY29pbmZvcmdlLmNvbSJ9",
+    "signature": "MHgwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA"
+  },
+  "frame": {
+    "version": "next",
+    "name": "MemeCoinForge",
+    "iconUrl": "https://memecoinforge.com/icon.png",
+    "homeUrl": "https://memecoinforge.com/home",
+    "splashImageUrl": "https://memecoinforge.com/splash.png",
+    "splashBackgroundColor": "#0a1929",
+    "webhookUrl": "https://memecoinforge.com/api/webhooks/farcaster",
+    "subtitle": "Launch meme coins on Base",
+    "description": "Rapidly design, launch, and manage meme coins on Base with integrated Kimbo burn and Farcaster social tools.",
+    "screenshotUrls": [
+      "https://memecoinforge.com/screenshot1.png",
+      "https://memecoinforge.com/screenshot2.png",
+      "https://memecoinforge.com/screenshot3.png"
+    ],
+    "primaryCategory": "defi",
+    "tags": ["memecoin", "base", "defi", "social"],
+    "heroImageUrl": "https://memecoinforge.com/hero.png",
+    "tagline": "Forge meme coins with Kimbo burn",
+    "ogTitle": "MemeCoinForge - Launch Meme Coins on Base",
+    "ogDescription": "Create and deploy meme coins with integrated Kimbo burn mechanics and Farcaster social tools",
+    "ogImageUrl": "https://memecoinforge.com/og-image.png"
+  }
+}
